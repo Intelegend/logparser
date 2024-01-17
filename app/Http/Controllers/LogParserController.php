@@ -1,11 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
-use Illuminate\Http\Request;
 use Throwable;
-use Carbon\Carbon;
-use Exception;
 
 class LogParserController extends Controller
 {
